@@ -1,8 +1,3 @@
-[//]: # (Image References)
-
-[image1]: https://user-images.githubusercontent.com/10624937/43851024-320ba930-9aff-11e8-8493-ee547c6af349.gif "Trained Agent"
-[image2]: https://user-images.githubusercontent.com/10624937/43851646-d899bf20-9b00-11e8-858c-29b5c2c94ccc.png "Crawler"
-
 
 # Project 2: Continuous Control
 
@@ -10,9 +5,7 @@
 
 For this project, you will work with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment.
 
-| Random agent             |  Trained agent |
-:-------------------------:|:-------------------------:
-![Random Agent](results/random_agent.gif)  |  ![Trained Agent](results/trained_agent.gif)
+<img width="961" alt="reacher" src="https://user-images.githubusercontent.com/30608533/68158152-1a052980-ff60-11e9-9573-c8d3ee022e45.png">
 
 In this environment, a double-jointed arm can move to target locations. A reward of +0.1 is provided for each step that the agent's hand is in the goal location. Thus, the goal of your agent is to maintain its position at the target location for as many time steps as possible.
 
