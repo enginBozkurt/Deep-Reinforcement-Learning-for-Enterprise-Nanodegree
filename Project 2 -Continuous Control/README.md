@@ -67,7 +67,7 @@ Follow the instructions in `Continuous_Control_DDPG.ipynb` to get started with t
 
 After you have successfully completed the project, you might like to solve the more difficult **Crawler** environment.
 
-![Crawler][image2]
+<img width="958" alt="crawler" src="https://user-images.githubusercontent.com/30608533/68158571-f2fb2780-ff60-11e9-9e1e-9f6dba814275.png">
 
 In this continuous control environment, the goal is to teach a creature with four legs to walk forward without falling.  
 
