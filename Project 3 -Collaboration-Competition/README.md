@@ -49,7 +49,7 @@ Follow the instructions in `Tennis.ipynb` to get started with training your own 
 
 After you have successfully completed the project, you might like to solve the more difficult **Soccer** environment.
 
-![Soccer][image2]
+<img width="960" alt="soccer" src="https://user-images.githubusercontent.com/30608533/68296221-20e98480-00a5-11ea-9f19-deacf5f5c2ff.png">
 
 In this environment, the goal is to train a team of agents to play soccer.  
 
