@@ -6,6 +6,10 @@
 
 # Project 3: Collaboration and Competition
 
+<img width="959" alt="tennis" src="https://user-images.githubusercontent.com/30608533/68295971-96a12080-00a4-11ea-99c5-3f557e0b8681.png">
+
+
+
 ### Introduction
 
 For this project, you will work with the [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) environment.
