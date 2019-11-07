@@ -1,4 +1,8 @@
-Project 1: Navigation
+## Project 1: Navigation
+
+![banana](https://user-images.githubusercontent.com/30608533/68388421-9fabf380-0171-11ea-8a79-71bbcf901e5d.gif)
+
+
 Introduction
 For this project, you will train an agent to navigate (and collect bananas!) in a large, square world.
 
